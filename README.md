@@ -1,1 +1,1 @@
-# Generating MNIST Handwritten Digits using a GAN
+# Generating MNIST Handwritten Digits Using A Generative Adversarial Network (GAN)
