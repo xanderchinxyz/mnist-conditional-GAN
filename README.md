@@ -1,6 +1,6 @@
 # Generating MNIST Handwritten Digits Using A Generative Adversarial Network (GAN)
 
-[![Watch the video](https://raw.githubusercontent.com/xanderchinxyz/mnist-conditional-GAN/main/thumbnail.jpg)](https://raw.githubusercontent.com/xanderchinxyz/mnist-conditional-GAN/main/demo.mp4)
+https://github.com/user-attachments/assets/7aebc68a-bc74-4fd0-80ed-15f4a6eb2114
 
 ## Background:
 Started learning about GANs a few days ago and managed to implement one that generates new MNIST handwritten digits with PyTorch. Created a normal GAN and modified it to a conditional one, allowing a user to specifiy what number they want to generate. Will clean up the README when I wake up cause it's currently 6 am and I wanna sleep.
